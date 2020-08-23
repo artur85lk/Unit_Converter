@@ -297,5 +297,8 @@ files:
     }
   learner_created: false
 feedback_link: https://hyperskill.org/projects/70/stages/388/implement
-status: Unchecked
+status: Failed
+feedback:
+  message: Compilation Failed
+  time: Sun, 23 Aug 2020 12:51:25 UTC
 record: -1

@@ -62,6 +62,8 @@ topics:
   - title: String templates
     theory_id: 4547
   2:
+  - title: Comments
+    theory_id: 4406
   - title: Coding style conventions
     theory_id: 4419
   - title: Naming variables
